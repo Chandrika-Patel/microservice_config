@@ -1,5 +1,5 @@
 # microservice_config
 <br>
-Thus is my first project
+This is my first java project
 <br>
 Author-"Chandrika Patel"
